@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Resume-Portfolio/static/css/main.92f89f62.css",
+    "main.js": "/Resume-Portfolio/static/js/main.a859cad9.js",
+    "static/media/bidder.jpg": "/Resume-Portfolio/static/media/bidder.b18a7b89134d7d1bd074.jpg",
+    "static/media/secret.jpg": "/Resume-Portfolio/static/media/secret.b71c41bd6379f3bec4ec.jpg",
+    "static/media/queuelio.jpg": "/Resume-Portfolio/static/media/queuelio.7079196d1322d91f0dcf.jpg",
+    "static/media/address.png": "/Resume-Portfolio/static/media/address.ab2c1cdaf3e2123e3afc.png",
+    "static/media/Me.png": "/Resume-Portfolio/static/media/Me.d9935296ee30e33ed9b0.png",
+    "static/media/sun.png": "/Resume-Portfolio/static/media/sun.eaee91fe429052dd420f.png",
+    "static/media/award.png": "/Resume-Portfolio/static/media/award.a4d8bd5f53696ee141ea.png",
+    "static/media/aboutme.png": "/Resume-Portfolio/static/media/aboutme.3af3b6df663c940de545.png",
+    "static/media/phone.png": "/Resume-Portfolio/static/media/phone.33cc9638f290628dc588.png",
+    "static/media/moon.png": "/Resume-Portfolio/static/media/moon.71ce70ca860f723ab778.png",
+    "static/media/email.png": "/Resume-Portfolio/static/media/email.62bef06b7bb8d730418e.png",
+    "index.html": "/Resume-Portfolio/index.html",
+    "main.92f89f62.css.map": "/Resume-Portfolio/static/css/main.92f89f62.css.map",
+    "main.a859cad9.js.map": "/Resume-Portfolio/static/js/main.a859cad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f89f62.css",
+    "static/js/main.a859cad9.js"
+  ]
+}
